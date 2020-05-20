@@ -1,1 +1,2 @@
 This is my project, It is really fun
+Git hub came about through linus torvald , the father of linux.
